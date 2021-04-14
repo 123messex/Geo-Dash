@@ -43,7 +43,10 @@ class GameViewController: UIViewController {
         }
     }
 
-    override var prefersStatusBarHidden: Bool {
-        return true
+    @IBAction func levelOneBest(_ sender: UITextField) {
+    }
+    @IBAction func levelTwoBest(_ sender: UITextField) {
+    }
+    @IBAction func levelThreeBest(_ sender: UITextField) {
     }
 }
